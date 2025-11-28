@@ -5,6 +5,7 @@
 
 ## Contract Address
 [0x072075A64Ff7F308f58bebed5d2990f6e306c5d1](https://coston2-explorer.flare.network/address/0x072075A64Ff7F308f58bebed5d2990f6e306c5d1)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64223d30-7721-4415-a04f-b16d42660fa4" />
 
 ## Description
 This project is a decentralized voting application built on the Flare Coston2 testnet. It enables users to participate in on-chain voting by interacting directly with a smart contract. Each user can vote "Yes" or "No" on a single question, with votes being recorded immutably on the blockchain. The DApp provides real-time feedback on vote counts and ensures that each wallet can vote only once.
